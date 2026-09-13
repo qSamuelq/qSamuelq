@@ -4,13 +4,12 @@ Second-year Cyber Security student at the University of Warwick, focused on
 detection engineering and security tooling — writing and tuning detections,
 and building the tools that surface what attackers leave behind.
 
-I come at blue-team work from the attacker's side too: I do offensive
-security in a lab (still very interested in pentesting / red teaming, likely
-somewhere later in my career), which makes me better at writing detections
+I come at blue-team work from the attacker's side too: I like  offensive
+security too and i'm interested in pentesting / red teaming, which makes me better at writing detections
 that actually catch real TTPs. Purple-team by instinct.
 
 Currently: self-studying for CompTIA Security+ (SY0-701) and doing
-certification-mapping research at WMG under Prof. Harjinder Lallie.
+certification-mapping research at WMG for teh University of Warwick.
 
 ### What I'm working on
 - **Detection engineering** — Sigma/KQL rules, tuning down false positives,
