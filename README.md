@@ -9,7 +9,7 @@ security too and i'm interested in pentesting / red teaming, which makes me bett
 that actually catch real TTPs. Purple-team by instinct.
 
 Currently: self-studying for CompTIA Security+ (SY0-701) and doing
-certification-mapping research at WMG for teh University of Warwick.
+certification-mapping research at WMG for the University of Warwick.
 
 ### What I'm working on
 - **Detection engineering** — Sigma/KQL rules, tuning down false positives,
