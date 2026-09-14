@@ -28,7 +28,7 @@ certification-mapping research at WMG for the University of Warwick.
   Microsoft Sentinel; detections built end to end against simulated attacks
   (Atomic Red Team), each with a Sigma rule, a design decision, and
   before/after tuning measurements. Mapped to MITRE ATT&CK.
-- **[LogSentinel](https://github.com/qSamuelq/LogSentinel)** — Python log
+- **[LogSentinel](https://github.com/qSamuelq/log-analysis-anomaly-detection-program)** — Python log
   anomaly detection tool with JSON-driven rules
 - **[KeyHunt](https://github.com/qSamuelq/KeyHunt)** — Linux secrets/credential
   audit tool in Python
