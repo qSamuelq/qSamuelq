@@ -36,4 +36,4 @@ certification-mapping research at WMG for the University of Warwick.
   — GDB passphrase bypass + stack buffer overflow to code execution (ret2win)
 
 ### Reach me
-[LinkedIn](https://www.linkedin.com/in/sam-nwabunike-4004a6316/) · samuelqp8@gmail.com
+[LinkedIn](https://www.linkedin.com/in/sam-nwabunike/) · samuelqp8@gmail.com
